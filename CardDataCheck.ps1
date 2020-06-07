@@ -11,7 +11,7 @@ $ComName = New-Object -Typename PSCustomObject -Property @{
 }
 "Script running on " + $ComName
 
-#Hardcoded path for data validation
+#Hardcoded path for data validation. Here you can add as many drives as you want.
 $path = "D:\test\" , "D:\test1\", "C:\"
 
 #Searching for card data in excels
