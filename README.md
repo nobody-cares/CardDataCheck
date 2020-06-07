@@ -1,3 +1,3 @@
 CardDataCheck
 -----------------
-Automated powershell script to check if any sensitive card data is stored locally.
+Powershell script to check if any sensitive card data is stored locally.
